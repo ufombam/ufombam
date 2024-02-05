@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ufombam
 - 👀 I’m interested in Full stack Web Development roles
-- 🌱 I’m currently API integration, server side programming, Database admin, DevOps
+- 🌱 I’m currently API integration, server side programming, Database admin
 - 💞️ I’m looking to collaborate on project related to those interests above
 - 📫 How to reach me mail: ufombam@gmail.com, +2347062679954 [https://mosesufomba.com]
 
