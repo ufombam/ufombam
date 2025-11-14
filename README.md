@@ -12,7 +12,7 @@
 
 ## 📫 Contact Me  
 - 📧 [ufombam@gmail.com](mailto:ufombam@gmail.com)  
-- 🌍 [mosesufomba.com](https://mosesufomba.com)  
+- 🌍 [mosesufomba.com](https://ufombamoses.netlify.app/)
 
 ---
 
